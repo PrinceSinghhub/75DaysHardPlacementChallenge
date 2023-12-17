@@ -38,7 +38,7 @@ Now, it's time to bid farewell to the 75DaysHardPlacementChallenge. 🎉 Let's e
 🙌♥ Happy Coding, and here's to the exciting chapters yet to unfold! ♥ 🚀 #75DaysChallengeComplete #NewBeginnings.
 
 
-![screencapture-127-0-0-1-5500-index-html-2023-12-16-01_25_18](https://github.com/PrinceSinghhub/75DaysHardPlacementChallenge/assets/71000042/bbc066d9-4db8-46ed-912f-0e2039223c12)
+![WhatsApp Image 2023-12-17 at 08 20 17_1e4535d1](https://github.com/PrinceSinghhub/75DaysHardPlacementChallenge/assets/71000042/11013834-6906-4538-afd7-04da33fab3e3)
 
 ### ~ It's All About Consistency📈 Dedication🎯 HardWork💪 Happy Coding❤️ ~
 
