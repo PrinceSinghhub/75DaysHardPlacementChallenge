@@ -129,7 +129,7 @@
 }
 
 .faq-item.active .faq-answer {
-  max-height: 8200px; /* Adjust the maximum height as needed */
+  max-height: 8800px; /* Adjust the maximum height as needed */
 }
 
 .question{
@@ -139,4 +139,17 @@
   font-weight: 900;
   font-family: Arial, Helvetica, sans-serif;
   color: rgba(0, 0, 0, 0.664);
+}
+
+.footerImg{
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  margin: auto;
+}
+
+.footerImg img{
+  width: 64rem;
+  height: auto;
+  border-radius: 30px;
 }
